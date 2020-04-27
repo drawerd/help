@@ -12,7 +12,7 @@ The database model is the core of your application, describing data tables, data
 
 #### Startup projects
 
-For start-up projects or new requirements, being able to correctly establish a data model that meets business needs is a key factor in the project's smooth iteration. With tools like [DrawERD](https://drawerd.com/), you can quickly transform your requirements into visual ERDs, and reach consensus among team members. There is no need to repeatedly check whether "category and product are one-to-many or many-to-many?" Information that is ignored but particularly critical.
+For startup projects or new requirements, being able to correctly establish a data model that meets business needs is a key factor in the project's smooth iteration. With tools like [DrawERD](https://drawerd.com/), you can quickly transform your requirements into visual ERDs, and reach consensus among team members. There is no need to repeatedly check whether "category and product are one-to-many or many-to-many?" Information that is ignored but particularly critical.
 
 #### Legacy projects
 
