@@ -33,4 +33,5 @@
 * [Simple](mode/simple.md)
 * [Full](mode/full.md)
 * [Feedback](feedback.md)
+* [Alternates](alternates.md)
 
