@@ -35,5 +35,11 @@ SqlDBM offers you an easy way to create an _ERD_ of your database prior to ... D
 
 A free online tool for drawing Entity-Relationship Diagrams by writing code. Designed specially for developers and data analysts
 
+* Database Relationship Diagrams Design Tool
+
+ Quick and simple design tool to help you draw your database relationship diagrams using DSL language. Designed for developers and analysts.
+
+Database diagram tool, database design tool, database schema design tool, database designer
+
 
 
