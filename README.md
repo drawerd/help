@@ -6,7 +6,7 @@ description: DrawERD makes it easy to visualize your database structure.
 
 ### Why ERD
 
-The database model is the core of your application, describing data tables, data types, entity relationships and constraints, and is the most important means of communication during the project development phase. A clear ERD can make it easier for the team to understand the needs and grasp the overall picture of the application.
+The database model is the core of your application,  describing data tables, data types, entity relationships and constraints, and is the most important means of communication during the project development phase. A clear ERD can make it easier for the team to understand the needs and grasp the overall picture of the application.
 
 ### Scenario
 
