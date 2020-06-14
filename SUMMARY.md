@@ -36,6 +36,7 @@
 ## Settings
 
 * [Color](settings/color.md)
+* [Foreign Key export](settings/foreign-key-export.md)
 * [Feedback](feedback.md)
 * [Alternates](alternates.md)
 
