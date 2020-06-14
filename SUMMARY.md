@@ -32,6 +32,10 @@
 
 * [Simple](mode/simple.md)
 * [Full](mode/full.md)
+
+## Settings
+
+* [Color](settings/color.md)
 * [Feedback](feedback.md)
 * [Alternates](alternates.md)
 
